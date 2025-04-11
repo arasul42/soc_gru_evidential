@@ -1,0 +1,6 @@
+{
+    "sequence_length": 100,
+    "batch_size": 256,
+    "num_epochs": 1,
+    "learning_rate": 0.001
+}
